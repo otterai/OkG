@@ -1,0 +1,5 @@
+aiogram
+aiohttp
+python-dotenv
+pymongo  # Optional if using MongoDB
+redis    # Optional if using Redis
